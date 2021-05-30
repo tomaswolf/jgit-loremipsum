@@ -2,6 +2,7 @@ Changelog:
 - created
 - change 1
 - change 2
+- change 3
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut quam nisl, tincidunt
 sed convallis change 1, vehicula in sapien. Ut consequat feugiat erat et vestibulum.
@@ -19,7 +20,7 @@ metus. Proin fringilla felis eu tristique tincidunt. Sed id eros a enim auctor a
 a ut enim.
 
 Sed lacus dui, dapibus et nisi eget, finibus volutpat tortor. Etiam lacinia quis est
-in faucibus. Pellentesque euismod felis eget ex lobortis, eu accumsan est tempus.
+in change 3. Pellentesque euismod felis eget ex lobortis, eu accumsan est tempus.
 Mauris non orci non nisl varius tincidunt vitae ac tortor. Integer convallis nisi id
 ultrices tempor. Nullam condimentum augue sed mi convallis iaculis. Orci varius natoque
 penatibus et magnis dis parturient montes, nascetur ridiculus mus.
