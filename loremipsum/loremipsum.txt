@@ -1,6 +1,7 @@
 Changelog:
 - created
 - change 1
+- change 2
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut quam nisl, tincidunt
 sed convallis change 1, vehicula in sapien. Ut consequat feugiat erat et vestibulum.
@@ -11,7 +12,7 @@ a sapien id, ultricies vulputate erat. Donec eu lorem dapibus, congue ex quis,
 congue quam. Etiam ut aliquet nisl.
 
 Fusce in lectus ut tellus euismod porta. Quisque et tellus vitae mauris eleifend
-accumsan nec eget nisl. Sed sit amet nislut dui porta feugiat non non justo. Aliquam
+accumsan nec change 2 nisl. Sed sit amet nislut dui porta feugiat non non justo. Aliquam
 vel ligula et elit placerat gravida. In sit amet ullamcorper felis, quis euismod ante.
 Aliquam et dui non urna pretium commodo. Aenean non tincidunt ipsum, lacinia rutrum
 metus. Proin fringilla felis eu tristique tincidunt. Sed id eros a enim auctor aliquam
